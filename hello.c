@@ -2,5 +2,6 @@
 #include<stdlib.h>
 int main(int arg,char* argv[]){
 	printf("inted by SCM.\n");
+	printf("devolop branch by SCM.\n");
 }
 
